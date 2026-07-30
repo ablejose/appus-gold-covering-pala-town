@@ -45,9 +45,9 @@ export const BRAND: BrandConfig = {
 
   storeImages: [
     "https://res.cloudinary.com/apvcphao/image/upload/v1785396712/shop_676ee876da6b.webp",
-    "https://lh3.googleusercontent.com/gps-proxy/ALd4DhEQweHcxbOBt7hCOzFvjt2vXDfAEGYUKFLOey1kmfmVsn6i4IpcbytHjVkoBCiUrgVg6lmcWZ7-7p8pk4GZtfSZd1uMo5Mb50dD2eGThdZ8vRXhCddoBW1UvlfOi8DI4iT7Os8vB1n_0OOtf59ckgeJoyEr-94vnJtsanOITq5XQ91Uqq2joRMrJute_HN3zKXi1Q=s1600",
-    "https://lh3.googleusercontent.com/gps-proxy/ALd4DhFTCkbOL87hufAEqlT9dcP9tUioRkNgMG-7iBOrE5-CLp6dOhsY-zDto-1dxj3cc8WsfNSxrucgtnm2NBewrAn7psHQsVNFDLoJlX5xIEuqm0WPYWZDlZU3aO28oYBtz7ZWTh1EuvcNc-8v1vEaGIEilrq3yVJv9_umrrdoJOw6ZgH4FdOKfQRcH3bJdQaGqJ273pk=s1600",
-    "https://res.cloudinary.com/dkszgtksw/image/upload/v1748076048/hayaz-gold-store4_fpstce.webp",
+    "https://res.cloudinary.com/apvcphao/image/upload/v1785400379/fix_6bb375e6caeb.webp",
+    "https://res.cloudinary.com/apvcphao/image/upload/v1785400381/fix_a88c6e472342.webp",
+    "https://res.cloudinary.com/apvcphao/image/upload/v1785400382/fix_5a8e1483dfc2.webp"
   ],
 
   address: "Near St. Thomas Press, Bright Arcade, Main Road, Vellappadu, Pala, Kottayam, Kerala 686575",
