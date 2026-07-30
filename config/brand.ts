@@ -44,7 +44,7 @@ export const BRAND: BrandConfig = {
   ],
 
   storeImages: [
-    "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWmvsztJS4lNfQM-Y7H3R-EhdhaxGSgi0nA7v9EzTkiK4T30HrnogG3M1ZLMefExFXirvdKaYSse5lKkIQxYM5PK2T8lDRGD9Q2NRmc1aVSNkGMDZO7eoks2PDeI0A_qg8JAh_Q4mw=s1600",
+    "https://res.cloudinary.com/apvcphao/image/upload/v1785396712/shop_676ee876da6b.webp",
     "https://lh3.googleusercontent.com/gps-proxy/ALd4DhEQweHcxbOBt7hCOzFvjt2vXDfAEGYUKFLOey1kmfmVsn6i4IpcbytHjVkoBCiUrgVg6lmcWZ7-7p8pk4GZtfSZd1uMo5Mb50dD2eGThdZ8vRXhCddoBW1UvlfOi8DI4iT7Os8vB1n_0OOtf59ckgeJoyEr-94vnJtsanOITq5XQ91Uqq2joRMrJute_HN3zKXi1Q=s1600",
     "https://lh3.googleusercontent.com/gps-proxy/ALd4DhFTCkbOL87hufAEqlT9dcP9tUioRkNgMG-7iBOrE5-CLp6dOhsY-zDto-1dxj3cc8WsfNSxrucgtnm2NBewrAn7psHQsVNFDLoJlX5xIEuqm0WPYWZDlZU3aO28oYBtz7ZWTh1EuvcNc-8v1vEaGIEilrq3yVJv9_umrrdoJOw6ZgH4FdOKfQRcH3bJdQaGqJ273pk=s1600",
     "https://res.cloudinary.com/dkszgtksw/image/upload/v1748076048/hayaz-gold-store4_fpstce.webp",
@@ -83,7 +83,7 @@ export const BRAND: BrandConfig = {
     ],
     canonical: "https://appus-gold-covering-pala-town.vercel.app",
     ogImage:
-      "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWmvsztJS4lNfQM-Y7H3R-EhdhaxGSgi0nA7v9EzTkiK4T30HrnogG3M1ZLMefExFXirvdKaYSse5lKkIQxYM5PK2T8lDRGD9Q2NRmc1aVSNkGMDZO7eoks2PDeI0A_qg8JAh_Q4mw=s1600",
+      "https://res.cloudinary.com/apvcphao/image/upload/v1785396712/shop_676ee876da6b.webp",
   },
 
   faq: [],
